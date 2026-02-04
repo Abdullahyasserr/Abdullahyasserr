@@ -3,8 +3,8 @@
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AbdullahYasser)
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/abdullah-yasser-a4631a376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
-[![Gmail]([https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:@mail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Bob129598@gmail.com))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdullahyasser@email.com)
 
 &nbsp;
 
@@ -46,4 +46,5 @@
 ---
 
 ⭐ *This profile is under continuous improvement — just like me.*
+
 
