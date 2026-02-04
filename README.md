@@ -2,10 +2,11 @@
 ### Computer & Control Systems Engineering Student | Web Development Learner 🌐⚙️
 
 <!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-0002style=flat&log0=Github&logoColor=white)](https://github.com/Abdullahyasserr)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Abdullahyasserr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-yasser-a4631a376)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&log0=Gmail&logoColor=white)](mailto:bob1295980gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&log0=Microsoft-Outlook&logoColor=white)](mailto:bob129598@gmail@hotmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bob1295980@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:bob129598@hotmail.com)
+
 
 &nbsp;
 
