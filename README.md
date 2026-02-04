@@ -24,13 +24,14 @@
 ## 🛠️ Languages & Tools (Learning)
 
 <p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/csharp/csharp-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
 ## 📊 GitHub Stats
