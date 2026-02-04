@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-<img width="50%" align="right" alt="coding" src="https://cdn.pixabay.com/photo/2017/07/31/11/09/computer-2557299_1280.jpg" />
+<img width="50%" align="right" alt="coding" src="https://cdn.pixabay.com/photo/2024/05/02/09/16/web-development-8734249_1280.png" />
 
 - 🎓 I’m a **Computer & Control Systems Engineering** student  
 - 🌱 Currently learning **Web Development (HTML, CSS, JavaScript)**  
