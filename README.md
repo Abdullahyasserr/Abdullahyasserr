@@ -40,7 +40,9 @@
 
 <p align="center">
 ![Abdullah Stats](https://github-readme-stats.vercel.app/api?username=Abdullahyasserr&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahyasserr&layout=compact&theme=radical)
+
 </p>
 
 ## 🚀 Goals
