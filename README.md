@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bob1295980@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:bob129598@hotmail.com)
 
-
 &nbsp;
 
 ## 👨‍💻 About Me
