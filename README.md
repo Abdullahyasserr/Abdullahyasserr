@@ -39,7 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYasser&show_icons=true&hide_border=true" />
+![Abdullah Stats](https://github-readme-stats.vercel.app/api?username=Abdullahyasserr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahyasserr&layout=compact&theme=radical)
 </p>
 
 ## 🚀 Goals
